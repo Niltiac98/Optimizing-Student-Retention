@@ -45,7 +45,8 @@ We determined that students who had been enrolled for 4-6 months were at higher 
 ### Step 7: Scheduled identified students for targeted interventions
 
 We assigned a manager to pull monthly data on at-risk students. Supervisors used a task list to document completed processes with students and parents.
-  
+  ![image](https://github.com/user-attachments/assets/4b18024d-c151-415c-a2f1-1dfb3b3f1204)
+
 ## 5. Presentation and Approval:
 
 ### Step 8: Presented the intervention plan to stakeholders using data tools like Excel and Tableau.
@@ -69,3 +70,9 @@ Additional metrics tracked included:
 ### Step 10: Achieved a 50% reduction in withdrawals related to lack of progress year-over-year (YoY).
 
 One year after implementation, we reassessed the program's impact. Accounting for enrollment variations, we found a 50% reduction in withdrawals due to lack of progress.
+
+![image](https://github.com/user-attachments/assets/64bda9d4-5b14-41a2-be0f-56a2dbc7d0c6)
+
+![image](https://github.com/user-attachments/assets/0df9250f-4cd9-40ae-a5a1-ebb1027b08f1)
+
+
